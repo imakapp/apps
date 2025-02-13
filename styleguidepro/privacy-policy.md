@@ -3,7 +3,7 @@
 **Effective Date:** [Insert Date]
 
 ## Introduction
-Welcome to [Your App Name] ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Welcome to STYLEGUIDE PRO ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
 By using the App, you agree to the collection and use of information in accordance with this policy. If you do not agree with this policy, please do not use the App.
 
@@ -40,7 +40,7 @@ Depending on your location, you may have rights regarding your data, including:
 - Accessing, updating, or deleting your personal information.
 - Opting out of certain data collection practices.
 
-To exercise these rights, please contact us at [Your Contact Email].
+To exercise these rights, please contact us at aejazkhan.py@gmail.com
 
 ## Children's Privacy
 Our App is **not** intended for users under the age of 13. We do not knowingly collect personal data from children.
@@ -51,11 +51,8 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-[Your Company Name]  
-[Your Email Address]  
-[Your Website URL]  
+IMAK STUDIO
+aejazkhan.py@gmail.com  
+imak.uk 
 
 ---
-
-**Hosting on GitHub Pages:**  
-Save this file as `privacy-policy.md` and place it in your GitHub repository. Enable GitHub Pages in your repository settings, and you can access it at `https://yourusername.github.io/repository-name/privacy-policy.md`.
